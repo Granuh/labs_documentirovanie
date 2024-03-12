@@ -1,0 +1,41 @@
+D:\Books\Test\C#\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.exe.config
+D:\Books\Test\C#\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.exe
+D:\Books\Test\C#\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.pdb
+D:\Books\Test\C#\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csproj.AssemblyReference.cache
+D:\Books\Test\C#\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csproj.SuggestedBindingRedirects.cache
+D:\Books\Test\C#\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.Form1.resources
+D:\Books\Test\C#\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.Properties.Resources.resources
+D:\Books\Test\C#\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csproj.GenerateResource.cache
+D:\Books\Test\C#\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csproj.CoreCompileInputs.cache
+D:\Books\Test\C#\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.exe
+D:\Books\Test\C#\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.pdb
+C:\Users\grank\Desktop\SO13\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.exe.config
+C:\Users\grank\Desktop\SO13\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.exe
+C:\Users\grank\Desktop\SO13\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.pdb
+C:\Users\grank\Desktop\SO13\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.Form1.resources
+C:\Users\grank\Desktop\SO13\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.Properties.Resources.resources
+C:\Users\grank\Desktop\SO13\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csproj.GenerateResource.Cache
+C:\Users\grank\Desktop\SO13\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.exe
+C:\Users\grank\Desktop\SO13\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.pdb
+C:\Users\grank\Desktop\SO13\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csproj.AssemblyReference.cache
+C:\Users\grank\Desktop\SO13\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csproj.CoreCompileInputs.cache
+E:\2022\курсовая по ос\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.exe.config
+E:\2022\курсовая по ос\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.exe
+E:\2022\курсовая по ос\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.pdb
+E:\2022\курсовая по ос\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csprojAssemblyReference.cache
+E:\2022\курсовая по ос\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.Form1.resources
+E:\2022\курсовая по ос\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.Properties.Resources.resources
+E:\2022\курсовая по ос\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csproj.GenerateResource.cache
+E:\2022\курсовая по ос\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csproj.CoreCompileInputs.cache
+E:\2022\курсовая по ос\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.exe
+E:\2022\курсовая по ос\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.pdb
+D:\progs\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.exe.config
+D:\progs\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.exe
+D:\progs\PageReplacementAlgo\PageReplacementAlgo\bin\Debug\PageReplacementAlgo.pdb
+D:\progs\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csprojAssemblyReference.cache
+D:\progs\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.Form1.resources
+D:\progs\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.Properties.Resources.resources
+D:\progs\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csproj.GenerateResource.cache
+D:\progs\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.csproj.CoreCompileInputs.cache
+D:\progs\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.exe
+D:\progs\PageReplacementAlgo\PageReplacementAlgo\obj\Debug\PageReplacementAlgo.pdb

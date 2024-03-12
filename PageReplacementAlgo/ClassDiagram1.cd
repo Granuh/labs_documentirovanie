@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PageReplacementAlgo.Process">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAADAAAABQAAAAAAAAAAAAAQAAAAAAkA=</HashCode>
+      <FileName>Process.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PageReplacementAlgo.Page">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAAAgAAAAAAAAAAAQAAAAAAAQAgAAAAAwA=</HashCode>
+      <FileName>Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PageReplacementAlgo.SystemProg">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BEAAAgAAAAAAAAAgAAABAAAAIgGAAAABAgAAYAIAAAA=</HashCode>
+      <FileName>SystemProg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
